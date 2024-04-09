@@ -1,0 +1,25 @@
+header{
+    height: 50px;
+    background-color: #ffdddd;
+}
+
+#wrapper{
+    height: 100px; 
+    display: flex;   
+    justify-content: space-between;
+}
+
+#main{
+    background-color: dodgerblue;
+    width: 60%;
+}
+
+aside{
+    background-color: #ffddff;
+    width: 30%;
+}
+
+footer{
+    height: 50px;
+    background-color: #ddddff;
+}
