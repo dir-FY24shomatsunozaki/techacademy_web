@@ -20,9 +20,12 @@ aside{
     float: left;
 }
 
-.clear{
-    clear: both;
+.clearfix{
+    content: '';
+    display: block;
+    clear: both;        
 }
+
 
 footer{
     height: 50px;
