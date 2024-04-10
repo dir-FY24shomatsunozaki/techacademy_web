@@ -1,9 +1,12 @@
-#main{
-    width: 34%;
-    background-color: #ddffdd;
+.box{
+    margin: 5px;
+    border: 1px solid black;
+    padding: 50px 50px 10px 30px;
+    background-color: skyblue;
+    height: 200px;
 }
 
 aside{
     width: 33%;
-    background-color: #ffddff;
+    background-color: rgb(128, 255, 255);
 }
